@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="Regles_Young_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Perciformes>
+                     <Istiophoridae>
+                        <Regles>
+                           <Regles_Young>
+                              <Regles_Young_M/>
+                           </Regles_Young>
+                        </Regles>
+                     </Istiophoridae>
+                  </Perciformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\Regles\Regles_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Regles_Young_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>

@@ -1,0 +1,116 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Regles>King of herrings</Regles>
+      <Regles_stt>King of herrings</Regles_stt>
+      <Regles_lower>The King of herrings</Regles_lower>
+      <Regles_ltt>
+         <color r="255" g="248" b="178">
+            <b>King of herrings</b>
+         </color>
+         <br/>
+         Click to select the King of herrings.
+      </Regles_ltt>
+</entityname>
+<zoopedia_regles>
+ <entry>King of herrings</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Regles/Regles_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Lowrisk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Benthic<br/></color>
+     <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Deep Sea<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Actinopterygii <i>(Ray-finned fish)</i><br/>Order: Lampriformes <i>(Lamprimorpha)</i><br/>Family: Regalecidae <i>(Oarfish)</i><br/>Gennus: <i>Regalecus</i><br/>Species: <i>R. glesne</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Facts of King of Herrings</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Usually measures about 11 meters, but some fish have been dated up to 18 meters..</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Due to global warming, there are more streams of cold water, and make the fish move to new places..</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To take this fish need a zoo of 5 stars.
+   </color>
+   <p/>The king of herrings or giant oarfish, an oarfish of the family Regalecidae, is the world's longest bony fish. Rarely sighted, it is found in all the world's oceans at depths of between 300 and 1000 meters. Most sightings have been in the north Atlantic, with most specimens found either dead or dying in shallow waters. The king of herrings is neither a true herring nor a close relative. According to the Great Book of Animals, its name comes from its crownlike appendages and from being sighted near shoals of herring, which fishermen thought were being guided by this fish. It is scaleless, ribbon-shaped and silvery with a long, red dorsal fin.
+
+   <p/>Regalecus glesne's specific epithet (glesne) is derived from the farm of Glesnaes, or the small village of Glesvaer, on the west coat of Norway, where the first registered oarfish observation was made by the Dane Ascanius in 1765 and 1769. The king of herrings is the world's longest bony fish. Its total length has been documented to reach 17 m (56 ft), and it can weigh up to 300 kg (661 lb). Its length and bizarre appearance are presumed to be responsible for some sea serpent sightings.
+
+   <p/>In May 2010, a dead 3 m specimen was found off the coast of Sweden. The last time one had been reported in Swedish waters was in 1879. On December 10 2010, a live specimen of four meters was found on the south coast of Sinaloa state in Mexico. One of the fisherman who captured it said it might be the devil and feared it might swallow them. On April 6 2011, a live specimen measuring 3.5 m was found off the east coast of Taiwan, nearly a month after the devastating tsunami hit Japan in March. Taiwanese fishermen believed that it surfaced to the shallow water because of the earthquake in Japan. They gave it the nickname: Earthquake Fish
+   
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from Wikipedia
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_regles>
+</ZT2Strings>

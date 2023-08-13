@@ -1,0 +1,114 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Regles>Rey de los arenques</Regles>
+      <Regles_stt>Rey de los arenques</Regles_stt>
+      <Regles_lower>die Rey de los arenques</Regles_lower>
+      <Regles_ltt>
+         <color r="255" g="248" b="178">
+            <b>Rey de los arenques</b>
+         </color>
+         <br/>
+         Haga clic y seleccione el Rey de los arenques, el pez mas largo del mundo.
+      </Regles_ltt>
+</entityname>
+<zoopedia_regles>
+ <entry>Rey de los arenques</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Regles/Regles_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Datos insuficientes
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Bentico<br/></color>
+     <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mares de casi todo el mundo<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Actinopterygii <i>(Peces)</i><br/>Orden: Lampriformes <i>(Lamprimorpha)</i><br/>Familia: Regalecidae <i>(Peces remo)</i><br/>Genero: <i>Regalecus</i><br/>Especie: <i>R. glesne</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades del Rey de los Arenques</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El Rey de los Arenques suele medir una talla maxima de unos 11 metros, pero se han datado ejemplares de hasta 18 metros. Es el pez mas largo del mundo.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Puede vivir a unos 1000 metros de profundidad. Según un experto en aguas, al derretirse los casquetes polartes por el calentamiento global se están creando unas fortísimas corrientes de agua fría que arrastran a estas especies a rincones que nunca antes poblaron.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Rey de Arenques necesita tener un zoo de 5 estrellas.
+   </color>
+   <p/>Las serpientes marinas gigantes han sido un mito relacionadas antiguamente con los dragones chinos y varias leyendas marítimas. Los regalecos o peces remo o peces sable (familia Regalecidae) son un grupo de 2 géneros de peces lampriformes de hábitat marino, que pueden hallarse en todas las regiones templadas y tropicales del globo. Un pez remo, llamado científicamente Regalecus glesne es el pez óseo más largo jamás avistado, alcanzando los 11 metros de longitud..
+
+   <p/>Los peces remo son delgados y aplanados. Tienen bocas pequeñas y protuberantes, sin dientes visibles; el cuerpo esta libre de escamas, teniendo en su lugar una cubierta de guanina de color plateado y consistencia viscosa. La aleta dorsal es roja o rosada, de gran tamaño, naciendo justo sobre los ojos y alcanzando la cola. Llega a tener 400 espinas, de las cuales la primera docena está alargada, formando una distintiva y vistosa cresta moteada de rojo. Las aletas pélvicas tienen también adornos semejantes; las pectorales apenas presentes, y la anal y caudal marcadamente reducidas o ausentes del todo. La forma de las aletas pélvicas, parecen remos, es probablemente el origen de su nombre.
+   
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de Fishbase, Wikipedia, http://axxon.com.ar
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_regles>
+</ZT2Strings>
